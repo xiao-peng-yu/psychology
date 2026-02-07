@@ -2,8 +2,8 @@ import { defineConfig } from "vitepress";
 
 export default defineConfig({
   lang: "zh-CN",
-  title: "生活中的心理学",
-  description: "一个由 VitePress 构建的心理学学习空间。",
+  title: "心理学科普",
+  description: "一个由 VitePress 构建的心理学科普与学习空间。",
   themeConfig: {
     nav: [
       { text: "首页", link: "/" },
@@ -57,7 +57,7 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/" }
     ],
     footer: {
-      message: "为好奇的心灵准备的心理学笔记。",
+      message: "把心理学讲清楚，也讲有用。",
       copyright: "Copyright 2026"
     }
   }

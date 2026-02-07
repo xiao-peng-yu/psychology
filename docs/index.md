@@ -1,10 +1,10 @@
 ---
 layout: home
-title: 生活中的心理学
+title: 心理学科普
 titleTemplate: false
 hero:
-  name: 生活中的心理学
-  text: 证据、实验与日常心智。
+  name: 心理学科普
+  text: 把心理学讲清楚。
   tagline: 通往认知、行为与心理健康的清晰入口。
   image:
     src: /images/hero-psychology.svg
